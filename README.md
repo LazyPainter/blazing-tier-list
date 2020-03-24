@@ -9,4 +9,5 @@ Tip: If you are looking for a certain character, use Control + F (Windows) or Co
 # How does this work ?
 
 The tier list currently divided into 5 sections (Heart, Skill, Body, Bravery & Wisdom) and 3 sub-sections (F2P, P2P & BBF). 
+
 <p style="color:DodgerBlue;">Lorem ipsum...</p>
