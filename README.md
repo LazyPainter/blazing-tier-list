@@ -1,4 +1,4 @@
-# PvE Tier List (Updated 19/3/20)
+## PvE Tier List (Updated 19/3/20)
 Welcome to the unofficial PVE Tier List for Naruto Shippuden Ultimate Ninja Blazing
 
 What is this for?
